@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr.
 
 ## badges
-![HacktoberFest] (https://www.holopin.io/claim/cl9loctd1055009kzoa9is8yd)
+![HacktoberFest] (https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75)
 
 
 ## 🔧 Technologies & Tools
