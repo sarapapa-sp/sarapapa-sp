@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr.
 
 ## badges
+<div style="height:10px;width:10px">
+  ![image](https://user-images.githubusercontent.com/76932742/197409282-d8084327-aa0d-4b2b-8b5b-b7441f4fba67.png)
+ </div>
 
-![image](https://user-images.githubusercontent.com/76932742/197409282-d8084327-aa0d-4b2b-8b5b-b7441f4fba67.png)
+
 
 
 
