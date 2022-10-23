@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shubhampawar1705@gmail.com
 - 😄 Pronouns: Mr.
 
+## badges
+![HacktoberFest] (https://www.holopin.io/claim/cl9loctd1055009kzoa9is8yd)
+
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
